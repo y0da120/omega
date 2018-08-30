@@ -1,0 +1,2 @@
+ <h1 class="h4 text-white my-2 my-sm-0 pr-2"><?php echo $_SESSION['login_user'];?></h1>
+ <a class="btn btn-outline-success text-white my-2 my-sm-0" href="controller/logout_controller.php">Kijelentkezés</a>
